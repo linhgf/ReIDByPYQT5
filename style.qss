@@ -1,0 +1,25 @@
+*{font-family:Microsoft YaHei;}
+ 
+
+
+QMainWindow{
+    background-color:rgb(43,43,43);
+}
+
+
+QWidget#left_widget{
+    background-color:rgb(43,43,43);
+    border-right:1px solid white;
+}
+
+QPushButton#btn_open{
+    border-radius: 5px;
+    background-color: rgb(24,144,255);
+    color: rgb(255,255,255);
+    height:50px;
+}
+
+QWidget#centralwidget{
+    background:rgb(43,43,43);
+}
+
